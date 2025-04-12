@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://github.com/arudzheri"><img height="300" width="600" src="eiskalterengel18-scene-4-tv.gif" /></a>
+  <a href="https://github.com/arudzheri"><img height="300" width="600" src="C:\Users\Andzhelo Rudzheri\Downloads\eiskalterengel18-scene-4-tv.gif" /></a>
 </div>
 
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Andzhelo Rudzheri,<br>I'm 19 years old.</h1>
