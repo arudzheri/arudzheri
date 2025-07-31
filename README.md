@@ -3,7 +3,7 @@
 
 <h2 align="left">✨ Few of my projects</h2>
 
-- Have a look at my [Portfolio](https://portfoliols.onrender.com)
+- Have a look at my [Portfolio](file:///C:/Users/Andzhelo%20Rudzheri/OneDrive/Andzhelo/Portfolio/index.html)
 
 - I am currently working on **Stellar Evolution Simulation** (Django & React)
 
