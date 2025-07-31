@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Andzhelo!</h1>
-<h3 align="center">A passionate full-stack web dev and game dev</h3>
+<h1 align="center">Hi, I'm Andzhelo Rudzheri!</h1>
+<h3 align="center">A passionate web dev and back-end developer.</h3>
 
 <h2 align="left">✨ Few of my projects</h2>
 
-- Have a look at my [Portfolio](file:///C:/Users/Andzhelo%20Rudzheri/OneDrive/Andzhelo/Portfolio/index.html)
+- Have a look at my [Portfolio](https://github.com/arudzheri/portfolio)
 
-- I am currently working on **Stellar Evolution Simulation** (Django & React)
+- I am currently working on **Student-Record-Management-System** (C++)
 
-- I have recently finished [Bookstore API](https://github.com/frajdzia/Bookstore-API)
+- I have recently finished [Brainwave-Controlled-AI-EEG-AI](https://github.com/arudzheri/Brainwave-Controlled-AI-EEG-AI-)
 
-- Check my group [Team HealthCheck](https://github.com/frajdzia/HealthCheck) & [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
+- Check my group [Team HealthCheck](https://github.com/saint-entity/SoftWest) & [Spotify-To-YT-Music](https://github.com/arudzheri/Spotify-To-YT-Music)
 
-- My 3D game prototypes [Mythic Maze](https://github.com/frajdzia/MythicMaze) & [Amazeing Journey](https://github.com/frajdzia/Amazeing_Journey)
+- My AI projects: [Moracle](https://github.com/arudzheri/moracle) & [Realtime-Object-Detection-HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)
 
-- My other projects: [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/) & [Estate agent web app](https://github.com/frajdzia/Estate_Agent_Web_Application)
+- My Other projects: [Quantum Tic-Tac-Toe](https://github.com/arudzheri/QTTT) & [Smart-Warehouse-AI-Simulator](https://github.com/arudzheri/-Smart-Warehouse-AI-Simulator)
 
 
 ###
