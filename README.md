@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andzhelo Rudzheri!</h1>
 <h3 align="center">BSc (Hons) Computer Science graduate, building full-stack products with a growing focus on applied AI.</h3>
 
-<h2 align="left">**✨Featured Projects**</h2>
+<h2 align="left">✨Featured Projects</h2>
 
 **[BillLens](https://github.com/arudzheri/BillLens)** — AI-powered tool that answers plain-English questions about UK
 Parliament, sourcing responses from bills, debates and voting records. Built for the EasyA Hackathon, published open source.
@@ -12,7 +12,8 @@ year project) — compares CO2 emissions across transport options and suggests l
 **[Moracle](https://github.com/arudzheri/moracle)** — AI-based prototype using DiffDock to help identify promising
 molecules for drug discovery, built at the Entrepreneur First AI × Bio Hackathon — 2nd Prize.
 
-**[Realtime Object Detection HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)**
+**[Realtime Object Detection HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)** — Real-time object
+detection for live video, inspired by heads-up display interfaces.
 
 
 ###
