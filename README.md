@@ -9,7 +9,7 @@
 
 - I have recently finished [Brainwave-Controlled-AI-EEG-AI](https://github.com/arudzheri/Brainwave-Controlled-AI-EEG-AI-)
 
-- Check my group [Team HealthCheck](https://github.com/saint-entity/SoftWest) & [Spotify-To-YT-Music](https://github.com/arudzheri/Spotify-To-YT-Music)
+- Check my group [Team HealthCheck](https://github.com/saint-entity/SoftWest)
 
 - My AI projects: [Moracle](https://github.com/arudzheri/moracle) & [Realtime-Object-Detection-HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)
 
