@@ -1,17 +1,18 @@
 <h1 align="center">Hi, I'm Andzhelo Rudzheri!</h1>
-<h3 align="center">A passionate web dev and back-end developer.</h3>
+<h3 align="center">BSc (Hons) Computer Science graduate, building full-stack products with a growing focus on applied AI.</h3>
 
-<h2 align="left">✨ Few of my projects</h2>
+<h2 align="left">**✨Featured Projects**</h2>
 
-- Have a look at my [Portfolio](https://github.com/arudzheri/portfolio)
+**[BillLens](https://github.com/arudzheri/BillLens)** — AI-powered tool that answers plain-English questions about UK
+Parliament, sourcing responses from bills, debates and voting records. Built for the EasyA Hackathon, published open source.
 
-- I have recently finished [Brainwave-Controlled-AI-EEG-AI](https://github.com/arudzheri/Brainwave-Controlled-AI-EEG-AI-)
+**[EcoPath](https://github.com/arudzheri/EcoPath-Final-Year-Project)** — Sustainability-focused itinerary planner (final
+year project) — compares CO2 emissions across transport options and suggests lower-carbon routes.
 
-- Check my group project [Team HealthCheck](https://github.com/saint-entity/SoftWest)
+**[Moracle](https://github.com/arudzheri/moracle)** — AI-based prototype using DiffDock to help identify promising
+molecules for drug discovery, built at the Entrepreneur First AI × Bio Hackathon — 2nd Prize.
 
-- My AI projects: [Moracle](https://github.com/arudzheri/moracle) & [Realtime-Object-Detection-HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)
-
-- My Other projects: [Quantum Tic-Tac-Toe](https://github.com/arudzheri/QTTT) & [Smart-Warehouse-AI-Simulator](https://github.com/arudzheri/-Smart-Warehouse-AI-Simulator)
+**[Realtime Object Detection HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)**
 
 
 ###
