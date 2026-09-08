@@ -5,8 +5,6 @@
 
 - Have a look at my [Portfolio](https://github.com/arudzheri/portfolio)
 
-- I am currently working on **EcoPath: Sustainable Itinerary Planner**
-
 - I have recently finished [Brainwave-Controlled-AI-EEG-AI](https://github.com/arudzheri/Brainwave-Controlled-AI-EEG-AI-)
 
 - Check my group project [Team HealthCheck](https://github.com/saint-entity/SoftWest)
