@@ -53,9 +53,9 @@ detection for live video, inspired by heads-up display interfaces.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frajdzia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=frajdzia&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frajdzia&radius=16&theme=modern-lilac&area=true&order=5&hide_title=true&hide_border=false" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arudzheri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=3" alt="top languages"  />
+  <img src="https://streak-stats.demolab.com?user=arudzheri&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arudzheri&radius=16&theme=modern-lilac&area=true&order=5&hide_title=true&hide_border=false" height="250" alt="activity-graph"  />
 </div>
 
 ###
@@ -65,9 +65,9 @@ detection for live video, inspired by heads-up display interfaces.
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frajdzia/frajdzia/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frajdzia/frajdzia/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/frajdzia/frajdzia/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-snake.svg" />
 </picture>
 
 ###
