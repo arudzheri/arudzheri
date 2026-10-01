@@ -65,9 +65,9 @@ detection for live video, inspired by heads-up display interfaces.
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-user-contribution-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-user-contribution.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://platane.github.io/snk/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://platane.github.io/snk/github-contribution-grid-snake.svg" />
 </picture>
 
 ###
