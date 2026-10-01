@@ -67,7 +67,7 @@ detection for live video, inspired by heads-up display interfaces.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arudzheri/arudzheri/output/github-user-contribution.svg" />
 </picture>
 
 ###
