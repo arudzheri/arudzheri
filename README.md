@@ -59,15 +59,3 @@ detection for live video, inspired by heads-up display interfaces.
 </div>
 
 ###
-
-<h2 align="left">🎲 Some fun stuff!</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://platane.github.io/snk/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://platane.github.io/snk/github-contribution-grid-snake.svg" />
-</picture>
-
-###
