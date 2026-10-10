@@ -15,6 +15,8 @@ molecules for drug discovery, built at the Entrepreneur First AI × Bio Hackatho
 **[Realtime Object Detection HUD](https://github.com/arudzheri/Realtime-Object-Detection-HUD)** — Real-time object
 detection for live video, inspired by heads-up display interfaces.
 
+**[UK-Climate-Trends](https://github.com/arudzheri/UK-Climate-Trends)** — Statistical analysis of UK annual mean temperatures (Met Office, 1884–2025) with pandas, linear regression and ARIMA. 
+
 
 ###
 
