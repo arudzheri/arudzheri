@@ -25,9 +25,9 @@ detection for live video, inspired by heads-up display interfaces.
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
