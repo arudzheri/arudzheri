@@ -50,7 +50,7 @@ detection for live video, inspired by heads-up display interfaces.
 
 ###
 
-<h2 align="left">📈 Fancy stats</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
 ###
 
